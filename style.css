@@ -1,0 +1,37 @@
+
+.myFont {
+    font-family: 'Roboto', sans-serif;
+}
+
+.parent {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 200px auto; 
+    width: 325px;
+    height: 325px ;
+    align-items: center;
+    font-size: 20px;
+}
+h2 {
+    font-size: 30px ;
+    margin: 20px;
+}
+.submit {
+    margin: 20px;
+}
+.firstname {
+    margin: 20px;
+}
+.lastname {
+    margin: 20px;
+}
+.email {
+    margin: 20px;
+}
+.submit {
+    margin: 20px;
+
+}
+body {
+}
